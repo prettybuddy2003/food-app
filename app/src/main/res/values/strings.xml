@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="f2p">F2P</string>
+    <string name="register">REGISTER</string>
+    <string name="create_an_new_account">create an new account!</string>
+    <string name="login">LOGIN</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="password">password</string>
+    <string name="Register">register</string>
+    <string name="user_name">User Name</string>
+    <string name="phone">phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="or_with">Or With</string>
+</resources>
